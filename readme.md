@@ -9,3 +9,7 @@ Results are as shown
 ![img.png](readmeImages/img.png)
 ![img_2.png](readmeImages/img_2.png)
 ![img_1.png](readmeImages/img_1.png)
+Captured Map
+![img_4.png](img_4.png)
+Processed and stitched maps
+![img_3.png](img_5.png)
